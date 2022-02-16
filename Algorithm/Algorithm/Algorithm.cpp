@@ -101,5 +101,6 @@ int main()
 		}
 	} while (ch != 0);
 	ob.write();
+	cout << "\nEXIT!\n";
 }
 
